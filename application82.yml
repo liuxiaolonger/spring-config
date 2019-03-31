@@ -43,7 +43,7 @@ info:
       
 ---
 server:
-  port: 80071  
+  port: 5007  
 spring:
    profiles: test 
    application: 
