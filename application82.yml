@@ -47,7 +47,7 @@ server:
 spring:
    profiles: test 
    application: 
-      name:   spring-api1   
+      name:   spring-api 
       
 mybatis: 
   mapper-locations: classpath*:mappers/*Mapper.xml
@@ -75,7 +75,7 @@ eureka:
     prefer-ip-address: true     #访问路径可以显示IP地址
       
 info:
-  app.name: spring-api1
+  app.name: spring-api
   company.name: www.longerr.com
   build.artifactId: $project.artifactId$
   build.version: $project.version$
