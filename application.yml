@@ -12,3 +12,9 @@ spring:
    profiles: test 
    application: 
       name:   spring-config-api-test  
+      
+      
+      
+      
+      
+      
